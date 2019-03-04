@@ -1,0 +1,55 @@
+Python 3.5.0 (v3.5.0:374f501f4567, Sep 13 2015, 02:27:37) [MSC v.1900 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:\Users\LAXMI\AppData\Local\Programs\Python\Python35\Employmnt NLP\tryone.py 
+Program to classify agreements and amendmenmts documnets
+
+Size of Vocabulary: 4489
+Shape of data: (210,)
+Shape of Labels: (210, 2) 
+
+
+Initializing Training......
+Accuracy at 0: 57.03125
+Accuracy at 100: 61.71875
+Accuracy at 200: 72.65625
+Accuracy at 300: 79.68750
+Accuracy at 400: 92.18750
+Accuracy at 500: 95.31250
+Accuracy at 600: 96.87500
+Accuracy at 700: 96.87500
+Accuracy at 800: 98.43750
+Accuracy at 900: 97.65625
+
+
+Test batch accuracy 0: 96.66666
+Test batch accuracy 1: 96.66666
+Test batch accuracy 2: 96.66666
+Test batch accuracy 3: 96.66666
+Test batch accuracy 4: 96.66666
+
+Model saved in path: C:\Users\LAXMI\AppData\Local\Programs\Python\Python35\Employmnt NLP\documemnt
+
+Verification
+DCOMT NAME: C:\Users\LAXMI\AppData\Local\Programs\Python\Python35\Employmnt NLP\document-analytics-master\test\22872_2000-01-14_ADDENDUM TO EMPLOYMENT AGREEMENT.txt
+[[ 1.9925569 -1.9780922]]
+[[-1.53209    1.5055461]]
+RESULTS:
+ITS AN AGGREMENT DOCUMENT
+DCOMT NAME: C:\Users\LAXMI\AppData\Local\Programs\Python\Python35\Employmnt NLP\document-analytics-master\test\26058_2005-10-26_EMPLOYMENT AGREEMENT.txt
+[[ 2.205408  -2.1914954]]
+[[ 2.0307152 -2.02944  ]]
+[[ 1.6600868 -1.6833191]]
+RESULTS:
+ITS AN AGGREMENT DOCUMENT
+DCOMT NAME: C:\Users\LAXMI\AppData\Local\Programs\Python\Python35\Employmnt NLP\document-analytics-master\test\831327_2005-12-22_AMENDMENT TO EMPLOYMENT AGREEMENT - ROBERT A. PEISER.txt
+[[-2.978597   2.9717174]]
+[[-3.320093   3.3046288]]
+[[-3.1570454  3.1376495]]
+RESULTS:
+ITS AN AMENDMENT DOCUMENT
+DCOMT NAME: C:\Users\LAXMI\AppData\Local\Programs\Python\Python35\Employmnt NLP\document-analytics-master\test\856709_2007-10-19_EX-10.4.(B) AMENDMENT TO EMPLOYMENT AGREEMENT AMONG GRAPHICS, HOLDINGS AND PATRICK W. KELLICK.txt
+[[-3.1563761  3.13698  ]]
+RESULTS:
+ITS AN AMENDMENT DOCUMENT
+>>> 

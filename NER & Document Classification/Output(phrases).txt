@@ -1,0 +1,61 @@
+Python 3.5.0 (v3.5.0:374f501f4567, Sep 13 2015, 02:27:37) [MSC v.1900 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+ RESTART: C:\Users\LAXMI\AppData\Local\Programs\Python\Python35\Employmnt NLP\chunk&postag.py 
+Program to extract named entity from words
+
+
+Following Noun Phrases for documnets are obtained....
+For 1 document:
+Top 10 Noun Phrases Are:
+[' Agreement Entered', ' November', ' David', ' Nelson Employee', ' Urs Corporation', ' Delaware Corporation', ' Company', ' Employment', ' Company Agrees', ' Employ Employee']
+
+
+For 2 document:
+Top 10 Noun Phrases Are:
+[' Amendment', ' Agreement', ' Amendment September', ' Amendment Employment', ' Agreement Dated', ' April', ' April', ' Employment Agreement', ' Virginia Electric', ' Power Company']
+
+
+For 3 document:
+Top 10 Noun Phrases Are:
+[' United', ' Securities', ' Exchange Commission', ' Washington', ' Form', ' Current', ' Report Pursuant', ' Section', ' Exchange Act', ' Date Report']
+
+
+For 4 document:
+Top 10 Noun Phrases Are:
+[' Agreement Effective', ' January', ' Agreement Employment', ' Agreement Dated', ' January', ' Date Bruce', ' Beaty Executive', ' Individual Residing', ' Patterson Avenue', ' Greenwich']
+
+
+For 5 document:
+Top 10 Noun Phrases Are:
+[' Briggs Stratton', ' Corporation Form', ' December', ' Exhibit', ' Officer Employment', ' Agreement Page', ' Agreement', ' Agreement', ' Day October', ' Briggs Stratton']
+
+
+
+Following Numeric Phrases for documnets are obtained....
+For 1 document:
+Numeric Phrases Are:
+[' Sections 280g 4999 Code']
+
+
+For 2 document:
+Numeric Phrases Are:
+[' Operations 963 4 37']
+
+
+For 3 document:
+Numeric Phrases Are:
+[' December 21 2015']
+
+
+For 4 document:
+Numeric Phrases Are:
+[' Page 6 6']
+
+
+For 5 document:
+Numeric Phrases Are:
+[' February 19 1990']
+
+
+>>> 
