@@ -1,0 +1,5 @@
+Program that generates sentences with digits word
+and classifing Odd and Even sentences.
+Example of sentences created are:
+'One Three Five'- Odd sentence
+'Two Four Eight'- Even Sentence
