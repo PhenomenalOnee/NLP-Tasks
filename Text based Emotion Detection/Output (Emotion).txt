@@ -1,0 +1,65 @@
+
+Following is a program output for text-based Sentiment Analysis.
+Five Sentiments are Used for classification:
+Sadness, Anger, Happiness, Nervousness, Disgust
+
+Note: The dataset I have Used does not have much variations and 
+diversity in terms of words used.
+Hence Accuracy is not state-of-the-art.
+Thank You
+      ****Menu For Algorithm Selection****
+1.RNN Method
+2.Tfidf Vector Method
+Enter Choice:1
+
+ \\RNN APPROACH//// 
+
+Size of Vocabulary: 3059
+Shape of data: (1027,)
+Shape of Labels: (1027, 5) 
+
+Accuracy at 0: 21.09375
+Accuracy at 100: 32.81250
+Accuracy at 200: 24.21875
+Accuracy at 300: 28.12500
+Accuracy at 400: 26.56250
+Accuracy at 500: 39.06250
+Accuracy at 600: 48.43750
+Accuracy at 700: 41.40625
+Accuracy at 800: 38.28125
+Accuracy at 900: 49.21875
+
+
+Test batch accuracy 0: 49.35065
+Test batch accuracy 1: 49.35065
+Test batch accuracy 2: 49.35065
+Test batch accuracy 3: 49.35065
+Test batch accuracy 4: 49.35065
+
+
+Sentence:
+ You have no love of fatherland in you
+Original Emotion: Disgusted
+Emotion Predicted: Disgusted
+
+Sentence:
+ This vexes me more than anything
+Original Emotion: Angry
+Emotion Predicted: Nervous
+
+Sentence:
+ There arose a very terrible storm
+Original Emotion: Nervous
+Emotion Predicted: Nervous
+
+Sentence:
+ It was music to my ears
+Original Emotion: Happy
+Emotion Predicted: Disgusted
+
+Sentence:
+ It is not so with the human heart
+Original Emotion: Sad
+Emotion Predicted: Nervous
+Do You Want To Continue:(Y/N):n
+>>> 
